@@ -1,0 +1,6 @@
+*.DS_Store
+.DS_Store
+*.mp4
+*.mov
+# Ignore open Solidworks files
+~$*
